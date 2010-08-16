@@ -1,0 +1,8 @@
+This is my humble first attempt at creating a VIM colorscheme, well forget about that color part. While it does not differ much from the default monochrome scheme, it has mainly reduced the amount of underline attribute, and the reverse attribute at the top when using tabs, these does imho steal focus from the text.
+
+The motivation for making this minor modification was to make the default mode text-only, while still providing highlightning of text when the cursor is moved around or when providing warning messages or highlightning of errorous syntax.
+
+This scheme still has a few underline attributes at various places, but mostly it relies on reverse attributes to mark up some code parts.
+
+I still haven't manage to put reverse attribute on matching brackets when moving the cursor over the matching one.
+
