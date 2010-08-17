@@ -35,7 +35,7 @@ hi Ignore		NONE
 hi IncSearch	term=reverse
 hi LineNr		NONE
 hi Menu			term=reverse
-" following only works when t_Co is set to colors. boo!
+" the following line needs a patched matchpar.vim in order to work
 hi MatchParen	term=reverse
 hi ModeMsg		NONE
 hi NonText		NONE

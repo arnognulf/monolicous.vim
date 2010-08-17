@@ -1,0 +1,4 @@
+This is the patched version of "matchparen.vim" from the standard vim distribution.
+put this in $HOME/.vim/plugin/
+
+VIM license applies.
